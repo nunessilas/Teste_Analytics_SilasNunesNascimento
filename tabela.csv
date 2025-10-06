@@ -1,0 +1,252 @@
+ID,Data,Produto,Categoria,Quantidade,Preço Unitario ($)
+1,2023-02-25,Gel de Limpeza Corporal,Limpeza,7,63.5
+2,2023-03-07,Protetor Solar Facial,Proteção,5,39.3
+3,2023-04-07,Protetor Solar Facial,Proteção,7,39.3
+4,2023-05-02,Protetor Solar Facial,Proteção,5,39.3
+5,2023-06-10,Gel de Limpeza Corporal,Limpeza,5,63.5
+6,2023-07-18,Gel de Limpeza Facial,Limpeza,5,32.5
+7,2023-08-05,Hidratante Corporal,Hidratação,2,59.9
+8,2023-09-03,Protetor Solar Facial,Proteção,10,39.3
+9,2023-10-24,Hidratante Facial,Hidratação,9,35.5
+10,2023-11-11,Protetor Solar Facial,Proteção,6,39.3
+11,2023-12-28,Gel de Limpeza Antioleosidade,Limpeza,8,79.5
+12,2023-01-05,Protetor Solar Facial,Proteção,12,39.3
+13,2023-02-04,Protetor Solar Corporal,Proteção,5,61.29
+14,2023-03-19,Gel de Limpeza Antioleosidade,Limpeza,3,79.5
+15,2023-04-19,Hidratante Facial,Hidratação,5,35.5
+16,2023-05-27,Gel de Limpeza Facial,Limpeza,7,32.5
+17,2023-06-10,Protetor Solar Facial,Proteção,7,39.3
+18,2023-07-06,Gel de Limpeza Facial,Limpeza,10,32.5
+19,2023-08-27,Protetor Solar Facial,Proteção,10,39.3
+20,2023-09-17,Hidratante Corporal,Hidratação,4,59.9
+21,2023-10-07,Hidratante Facial,Hidratação,6,35.5
+22,2023-11-18,Gel de Limpeza Facial,Limpeza,11,32.5
+23,2023-12-28,Gel de Limpeza Facial,Limpeza,4,32.5
+24,2023-01-06,Protetor Solar Antioleosidade,Proteção,11,79.9
+25,2023-02-28,Protetor Solar Facial,Proteção,21,39.3
+26,2023-03-18,Gel de Limpeza Facial,Limpeza,8,32.5
+27,2023-04-25,Protetor Solar Facial,Proteção,10,39.3
+28,2023-05-07,Protetor Solar Facial,Proteção,10,39.3
+29,2023-06-05,Protetor Solar Antioleosidade,Proteção,4,79.9
+30,2023-07-14,Hidratante Corporal,Hidratação,2,59.9
+31,2023-08-25,Protetor Solar Antioleosidade,Proteção,3,79.9
+32,2023-09-18,Gel de Limpeza Facial,Limpeza,5,32.5
+33,2023-10-21,Hidratante Corporal,Hidratação,6,59.9
+34,2023-11-15,Hidratante Facial,Hidratação,9,35.5
+35,2023-12-03,Protetor Solar Facial,Proteção,18,39.3
+36,2023-01-08,Protetor Solar Antioleosidade,Proteção,7,79.9
+37,2023-02-11,Gel de Limpeza Antioleosidade,Limpeza,3,79.5
+38,2023-03-18,Hidratante Facial,Hidratação,11,35.5
+39,2023-04-01,Hidratante Antioleosidade,Hidratação,4,82.0
+40,2023-05-20,Hidratante Corporal,Hidratação,5,59.9
+41,2023-06-12,Hidratante Facial,Hidratação,11,35.5
+42,2023-07-15,Protetor Solar Facial,Proteção,11,39.3
+43,2023-08-11,Protetor Solar Antioleosidade,Proteção,3,79.9
+44,2023-09-04,Hidratante Antioleosidade,Hidratação,3,82.0
+45,2023-10-08,Gel de Limpeza Facial,Limpeza,10,32.5
+46,2023-11-21,Gel de Limpeza Corporal,Limpeza,2,63.5
+47,2023-12-11,Hidratante Antioleosidade,Hidratação,5,82.0
+48,2023-01-02,Protetor Solar Corporal,Proteção,9,61.29
+49,2023-02-21,Hidratante Corporal,Hidratação,5,59.9
+50,2023-03-24,Gel de Limpeza Facial,Limpeza,10,32.5
+51,2023-04-06,Gel de Limpeza Antioleosidade,Limpeza,1,79.5
+52,2023-05-01,Hidratante Facial,Hidratação,7,35.5
+53,2023-06-22,Hidratante Antioleosidade,Hidratação,1,82.0
+54,2023-07-11,Gel de Limpeza Antioleosidade,Limpeza,5,79.5
+55,2023-08-06,Hidratante Facial,Hidratação,7,35.5
+56,2023-09-18,Gel de Limpeza Facial,Limpeza,6,32.5
+57,2023-10-12,Protetor Solar Antioleosidade,Proteção,2,79.9
+58,2023-11-08,Gel de Limpeza Facial,Limpeza,6,32.5
+59,2023-12-27,Hidratante Facial,Hidratação,7,35.5
+60,2023-01-22,Hidratante Antioleosidade,Hidratação,8,82.0
+61,2023-02-20,Hidratante Antioleosidade,Hidratação,11,82.0
+62,2023-03-24,Hidratante Facial,Hidratação,9,35.5
+63,2023-04-12,Hidratante Antioleosidade,Hidratação,5,82.0
+64,2023-05-12,Protetor Solar Facial,Proteção,8,39.3
+65,2023-06-18,Gel de Limpeza Corporal,Limpeza,1,63.5
+66,2023-07-11,Gel de Limpeza Facial,Limpeza,9,32.5
+67,2023-08-03,Protetor Solar Facial,Proteção,11,39.3
+68,2023-09-05,Gel de Limpeza Facial,Limpeza,8,32.5
+69,2023-10-26,Protetor Solar Facial,Proteção,5,39.3
+70,2023-11-14,Gel de Limpeza Facial,Limpeza,11,32.5
+71,2023-12-26,Hidratante Antioleosidade,Hidratação,11,82.0
+72,2023-01-13,Hidratante Antioleosidade,Hidratação,8,82.0
+73,2023-02-06,Hidratante Facial,Hidratação,2,35.5
+74,2023-03-10,Hidratante Corporal,Hidratação,5,59.9
+75,2023-04-15,Gel de Limpeza Antioleosidade,Limpeza,1,79.5
+76,2023-05-04,Protetor Solar Facial,Proteção,11,39.3
+77,2023-06-09,Protetor Solar Facial,Proteção,11,39.3
+78,2023-07-06,Hidratante Facial,Hidratação,10,35.5
+79,2023-08-07,Hidratante Facial,Hidratação,11,35.5
+80,2023-09-19,Protetor Solar Antioleosidade,Proteção,2,79.9
+81,2023-10-20,Protetor Solar Antioleosidade,Proteção,1,79.9
+82,2023-11-15,Protetor Solar Facial,Proteção,5,39.3
+83,2023-12-19,Protetor Solar Antioleosidade,Proteção,15,79.9
+84,2023-01-10,Hidratante Corporal,Hidratação,2,59.9
+85,2023-02-25,Gel de Limpeza Antioleosidade,Limpeza,11,79.5
+86,2023-03-16,Protetor Solar Antioleosidade,Proteção,3,79.9
+87,2023-04-01,Hidratante Facial,Hidratação,7,35.5
+88,2023-05-28,Protetor Solar Facial,Proteção,9,39.3
+89,2023-06-16,Protetor Solar Facial,Proteção,7,39.3
+90,2023-07-15,Hidratante Facial,Hidratação,6,35.5
+91,2023-08-09,Protetor Solar Antioleosidade,Proteção,4,79.9
+92,2023-09-06,Gel de Limpeza Facial,Limpeza,9,32.5
+93,2023-10-19,Hidratante Facial,Hidratação,11,35.5
+94,2023-11-02,Hidratante Antioleosidade,Hidratação,1,82.0
+95,2023-12-13,Protetor Solar Facial,Proteção,6,39.3
+96,2023-01-21,Protetor Solar Facial,Proteção,28,39.3
+97,2023-02-13,Hidratante Antioleosidade,Hidratação,2,82.0
+98,2023-03-03,Protetor Solar Facial,Proteção,5,39.3
+99,2023-04-27,Gel de Limpeza Antioleosidade,Limpeza,1,79.5
+100,2023-05-17,Gel de Limpeza Antioleosidade,Limpeza,1,79.5
+101,2023-06-06,Protetor Solar Antioleosidade,Proteção,2,79.9
+102,2023-07-23,Gel de Limpeza Facial,Limpeza,8,32.5
+103,2023-08-19,Protetor Solar Facial,Proteção,6,39.3
+104,2023-09-23,Protetor Solar Facial,Proteção,9,39.3
+105,2023-10-18,Hidratante Facial,Hidratação,9,35.5
+106,2023-11-22,Protetor Solar Corporal,Proteção,2,61.29
+107,2023-12-22,Protetor Solar Facial,Proteção,16,39.3
+108,2023-01-11,Hidratante Corporal,Hidratação,6,59.9
+109,2023-02-26,Protetor Solar Facial,Proteção,28,39.3
+110,2023-03-20,Gel de Limpeza Antioleosidade,Limpeza,4,79.5
+111,2023-04-11,Protetor Solar Corporal,Proteção,3,61.29
+112,2023-05-08,Protetor Solar Facial,Proteção,7,39.3
+113,2023-06-25,Gel de Limpeza Facial,Limpeza,8,32.5
+114,2023-07-26,Gel de Limpeza Facial,Limpeza,6,32.5
+115,2023-08-09,Hidratante Facial,Hidratação,10,35.5
+116,2023-09-14,Gel de Limpeza Facial,Limpeza,8,32.5
+117,2023-10-23,Hidratante Corporal,Hidratação,5,59.9
+118,2023-11-05,Protetor Solar Antioleosidade,Proteção,1,79.9
+119,2023-12-05,Protetor Solar Antioleosidade,Proteção,13,79.9
+120,2023-01-25,Gel de Limpeza Facial,Limpeza,4,32.5
+121,2023-02-01,Gel de Limpeza Corporal,Limpeza,1,63.5
+122,2023-03-01,Protetor Solar Corporal,Proteção,1,61.29
+123,2023-04-09,Hidratante Facial,Hidratação,6,35.5
+124,2023-05-12,Hidratante Antioleosidade,Hidratação,1,82.0
+125,2023-06-27,Gel de Limpeza Facial,Limpeza,9,32.5
+126,2023-07-08,Hidratante Facial,Hidratação,8,35.5
+127,2023-08-18,Protetor Solar Facial,Proteção,8,39.3
+128,2023-09-23,Protetor Solar Facial,Proteção,7,39.3
+129,2023-10-07,Hidratante Antioleosidade,Hidratação,4,82.0
+130,2023-11-11,Hidratante Facial,Hidratação,10,35.5
+131,2023-12-02,Hidratante Facial,Hidratação,6,35.5
+132,2023-01-22,Gel de Limpeza Facial,Limpeza,3,32.5
+133,2023-02-27,Hidratante Antioleosidade,Hidratação,8,82.0
+134,2023-03-04,Hidratante Antioleosidade,Hidratação,1,82.0
+135,2023-04-03,Gel de Limpeza Antioleosidade,Limpeza,3,79.5
+136,2023-05-06,Protetor Solar Facial,Proteção,7,39.3
+137,2023-06-04,Gel de Limpeza Facial,Limpeza,5,32.5
+138,2023-07-24,Gel de Limpeza Antioleosidade,Limpeza,1,79.5
+139,2023-08-23,Hidratante Facial,Hidratação,6,35.5
+140,2023-09-23,Protetor Solar Facial,Proteção,7,39.3
+141,2023-10-15,Gel de Limpeza Facial,Limpeza,7,32.5
+142,2023-11-03,Protetor Solar Facial,Proteção,9,39.3
+143,2023-12-25,Hidratante Facial,Hidratação,3,35.5
+144,2023-01-04,Hidratante Facial,Hidratação,7,35.5
+145,2023-02-11,Protetor Solar Antioleosidade,Proteção,17,79.9
+146,2023-03-03,Protetor Solar Corporal,Proteção,7,61.29
+147,2023-04-16,Hidratante Facial,Hidratação,5,35.5
+148,2023-05-11,Protetor Solar Antioleosidade,Proteção,5,79.9
+149,2023-06-23,Hidratante Corporal,Hidratação,2,59.9
+150,2023-07-17,Protetor Solar Facial,Proteção,8,39.3
+151,2023-08-10,Protetor Solar Corporal,Proteção,3,61.29
+152,2023-09-03,Hidratante Antioleosidade,Hidratação,1,82.0
+153,2023-10-03,Gel de Limpeza Antioleosidade,Limpeza,2,79.5
+154,2023-11-22,Protetor Solar Antioleosidade,Proteção,4,79.9
+155,2023-12-19,Hidratante Facial,Hidratação,2,35.5
+156,2023-01-19,Protetor Solar Corporal,Proteção,4,61.29
+157,2023-02-14,Protetor Solar Facial,Proteção,15,39.3
+158,2023-03-13,Gel de Limpeza Facial,Limpeza,9,32.5
+159,2023-04-04,Protetor Solar Facial,Proteção,7,39.3
+160,2023-05-16,Hidratante Facial,Hidratação,10,35.5
+161,2023-06-08,Hidratante Facial,Hidratação,5,35.5
+162,2023-07-25,Hidratante Facial,Hidratação,9,35.5
+163,2023-08-13,Hidratante Facial,Hidratação,6,35.5
+164,2023-09-05,Hidratante Corporal,Hidratação,4,59.9
+165,2023-10-28,Gel de Limpeza Antioleosidade,Limpeza,3,79.5
+166,2023-11-14,Gel de Limpeza Corporal,Limpeza,4,63.5
+167,2023-12-05,Gel de Limpeza Facial,Limpeza,3,32.5
+168,2023-01-20,Gel de Limpeza Corporal,Limpeza,6,63.5
+169,2023-02-01,Protetor Solar Antioleosidade,Proteção,17,79.9
+170,2023-03-22,Hidratante Facial,Hidratação,5,35.5
+171,2023-04-15,Protetor Solar Facial,Proteção,9,39.3
+172,2023-05-07,Gel de Limpeza Corporal,Limpeza,5,63.5
+173,2023-06-07,Gel de Limpeza Facial,Limpeza,10,32.5
+174,2023-07-14,Protetor Solar Corporal,Proteção,6,61.29
+175,2023-08-16,Protetor Solar Antioleosidade,Proteção,1,79.9
+176,2023-09-17,Hidratante Corporal,Hidratação,1,59.9
+177,2023-10-05,Protetor Solar Facial,Proteção,10,39.3
+178,2023-11-25,Protetor Solar Facial,Proteção,9,39.3
+179,2023-12-26,Gel de Limpeza Facial,Limpeza,7,32.5
+180,2023-01-07,Gel de Limpeza Facial,Limpeza,2,32.5
+181,2023-02-21,Protetor Solar Antioleosidade,Proteção,15,79.9
+182,2023-03-10,Protetor Solar Facial,Proteção,10,39.3
+183,2023-04-21,Gel de Limpeza Antioleosidade,Limpeza,1,79.5
+184,2023-05-13,Protetor Solar Corporal,Proteção,4,61.29
+185,2023-06-27,Gel de Limpeza Antioleosidade,Limpeza,1,79.5
+186,2023-07-28,Protetor Solar Antioleosidade,Proteção,1,79.9
+187,2023-08-23,Hidratante Corporal,Hidratação,5,59.9
+188,2023-09-11,Gel de Limpeza Antioleosidade,Limpeza,1,79.5
+189,2023-10-25,Hidratante Facial,Hidratação,10,35.5
+190,2023-11-24,Gel de Limpeza Facial,Limpeza,11,32.5
+191,2023-12-22,Protetor Solar Antioleosidade,Proteção,17,79.9
+192,2023-01-05,Protetor Solar Corporal,Proteção,5,61.29
+193,2023-02-04,Protetor Solar Corporal,Proteção,10,61.29
+194,2023-03-19,Hidratante Antioleosidade,Hidratação,1,82.0
+195,2023-04-16,Hidratante Facial,Hidratação,11,35.5
+196,2023-05-02,Protetor Solar Corporal,Proteção,6,61.29
+197,2023-06-21,Hidratante Facial,Hidratação,11,35.5
+198,2023-07-16,Gel de Limpeza Antioleosidade,Limpeza,1,79.5
+199,2023-08-19,Protetor Solar Facial,Proteção,9,39.3
+200,2023-09-03,Hidratante Antioleosidade,Hidratação,1,82.0
+201,2023-10-19,Gel de Limpeza Facial,Limpeza,11,32.5
+202,2023-11-05,Gel de Limpeza Facial,Limpeza,7,32.5
+203,2023-12-05,Gel de Limpeza Corporal,Limpeza,7,63.5
+204,2023-01-11,Gel de Limpeza Facial,Limpeza,3,32.5
+205,2023-02-05,Gel de Limpeza Antioleosidade,Limpeza,9,79.5
+206,2023-03-06,Protetor Solar Antioleosidade,Proteção,1,79.9
+207,2023-04-13,Hidratante Antioleosidade,Hidratação,1,82.0
+208,2023-05-02,Hidratante Corporal,Hidratação,3,59.9
+209,2023-06-08,Gel de Limpeza Antioleosidade,Limpeza,1,79.5
+210,2023-07-15,Protetor Solar Facial,Proteção,9,39.3
+211,2023-08-28,Hidratante Antioleosidade,Hidratação,3,82.0
+212,2023-09-22,Protetor Solar Antioleosidade,Proteção,1,79.9
+213,2023-10-11,Gel de Limpeza Corporal,Limpeza,7,63.5
+214,2023-11-03,Gel de Limpeza Antioleosidade,Limpeza,5,79.5
+215,2023-12-05,Protetor Solar Facial,Proteção,16,39.3
+216,2023-01-14,Gel de Limpeza Antioleosidade,Limpeza,8,79.5
+217,2023-02-14,Hidratante Facial,Hidratação,1,35.5
+218,2023-03-15,Protetor Solar Antioleosidade,Proteção,1,79.9
+219,2023-04-03,Gel de Limpeza Facial,Limpeza,10,32.5
+220,2023-05-18,Gel de Limpeza Facial,Limpeza,6,32.5
+221,2023-06-25,Hidratante Corporal,Hidratação,1,59.9
+222,2023-07-16,Hidratante Corporal,Hidratação,6,59.9
+223,2023-08-28,Hidratante Facial,Hidratação,5,35.5
+224,2023-09-02,Gel de Limpeza Facial,Limpeza,9,32.5
+225,2023-10-28,Protetor Solar Corporal,Proteção,5,61.29
+226,2023-11-24,Protetor Solar Facial,Proteção,10,39.3
+227,2023-12-03,Gel de Limpeza Facial,Limpeza,7,32.5
+228,2023-01-13,Gel de Limpeza Corporal,Limpeza,6,63.5
+229,2023-02-22,Gel de Limpeza Facial,Limpeza,2,32.5
+230,2023-03-17,Hidratante Antioleosidade,Hidratação,1,82.0
+231,2023-04-26,Gel de Limpeza Antioleosidade,Limpeza,2,79.5
+232,2023-05-26,Hidratante Facial,Hidratação,5,35.5
+233,2023-06-17,Gel de Limpeza Corporal,Limpeza,1,63.5
+234,2023-07-21,Protetor Solar Facial,Proteção,10,39.3
+235,2023-08-28,Hidratante Corporal,Hidratação,5,59.9
+236,2023-09-02,Gel de Limpeza Antioleosidade,Limpeza,1,79.5
+237,2023-10-12,Hidratante Corporal,Hidratação,4,59.9
+238,2023-11-03,Protetor Solar Facial,Proteção,5,39.3
+239,2023-12-28,Hidratante Facial,Hidratação,1,35.5
+240,2023-01-21,Gel de Limpeza Facial,Limpeza,4,32.5
+241,2023-02-11,Protetor Solar Facial,Proteção,8,39.3
+242,2023-03-07,Gel de Limpeza Corporal,Limpeza,5,63.5
+243,2023-04-01,Protetor Solar Corporal,Proteção,4,61.29
+244,2023-05-25,Hidratante Antioleosidade,Hidratação,1,82.0
+245,2023-06-03,Gel de Limpeza Antioleosidade,Limpeza,1,79.5
+246,2023-07-19,Protetor Solar Facial,Proteção,6,39.3
+247,2023-08-18,Gel de Limpeza Facial,Limpeza,10,32.5
+248,2023-09-22,Hidratante Facial,Hidratação,10,35.5
+249,2023-10-25,Protetor Solar Corporal,Proteção,5,61.29
+250,2023-11-06,Gel de Limpeza Facial,Limpeza,5,32.5
+251,2023-12-05,Protetor Solar Facial,Proteção,12,39.3
